@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="GLee\GLee.c" open="0" top="0" tabpos="0">
+		<Cursor position="859" topLine="228" />
+	</File>
+	<File name="imageloader.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2518" topLine="151" />
+	</File>
+	<File name="imageloader.h" open="1" top="0" tabpos="3">
+		<Cursor position="497" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="32778" topLine="1137" />
+	</File>
+	<File name="vec3f.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="814" topLine="66" />
+	</File>
+	<File name="vec3f.h" open="0" top="0" tabpos="4">
+		<Cursor position="313" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

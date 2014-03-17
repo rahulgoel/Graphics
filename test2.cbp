@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\test2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="GLee\GLee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GLee\GLee.h" />
+		<Unit filename="GLee\extensionList.txt" />
+		<Unit filename="GLee\readme.txt" />
+		<Unit filename="Maths\COLOR.cpp" />
+		<Unit filename="Maths\COLOR.h" />
+		<Unit filename="Maths\MATRIX4X4.cpp" />
+		<Unit filename="Maths\MATRIX4X4.h" />
+		<Unit filename="Maths\Maths.h" />
+		<Unit filename="Maths\PLANE.cpp" />
+		<Unit filename="Maths\PLANE.h" />
+		<Unit filename="Maths\VECTOR2D.cpp" />
+		<Unit filename="Maths\VECTOR2D.h" />
+		<Unit filename="Maths\VECTOR3D.cpp" />
+		<Unit filename="Maths\VECTOR3D.h" />
+		<Unit filename="Maths\VECTOR4D.cpp" />
+		<Unit filename="Maths\VECTOR4D.h" />
+		<Unit filename="imageloader.cpp" />
+		<Unit filename="imageloader.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="test2.cbp" />
+		<Unit filename="vec3f.cpp" />
+		<Unit filename="vec3f.h" />
+		<Unit filename="vtr.bmp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

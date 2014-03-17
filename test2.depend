@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1156873232 source:c:\users\rahul goel\downloads\test2\glee\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1156873232 c:\users\rahul goel\downloads\test2\glee\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1156873230 source:c:\users\rahul goel\downloads\test2\maths\color.cpp
+	"Maths.h"
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\maths.h
+	<math.h>
+	"VECTOR2D.h"
+	"VECTOR3D.h"
+	"VECTOR4D.h"
+	"MATRIX4X4.h"
+	"PLANE.h"
+	"COLOR.h"
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\vector2d.h
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\vector3d.h
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\vector4d.h
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\matrix4x4.h
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\plane.h
+
+1351615105 c:\users\rahul goel\downloads\test2\maths\color.h
+
+1156873230 source:c:\users\rahul goel\downloads\test2\maths\matrix4x4.cpp
+	<memory.h>
+	"Maths.h"
+
+1156873230 source:c:\users\rahul goel\downloads\test2\maths\plane.cpp
+	"Maths.h"
+
+1156873232 source:c:\users\rahul goel\downloads\test2\maths\vector2d.cpp
+	"Maths.h"
+
+1156873232 source:c:\users\rahul goel\downloads\test2\maths\vector3d.cpp
+	"Maths.h"
+
+1156873232 source:c:\users\rahul goel\downloads\test2\maths\vector4d.cpp
+	"Maths.h"
+
+1351614987 source:c:\users\rahul goel\downloads\test2\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1351615875 c:\users\rahul goel\downloads\test2\imageloader.h
+
+1353827125 source:c:\users\rahul goel\downloads\test2\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<set>
+	<stdlib.h>
+	<vector>
+	"GLee/GLee.h"
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Maths/Maths.h"
+	"imageloader.h"
+	"vec3f.h"
+	"stdio.h"
+	<sstream>
+
+1351615875 c:\users\rahul goel\downloads\test2\vec3f.h
+	<iostream>
+
+1351615147 source:c:\users\rahul goel\downloads\test2\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
